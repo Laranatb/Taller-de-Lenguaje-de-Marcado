@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalogo> 
+    <fecha="2024-06-01">
+    <empresa="TurismoYa S.A.">
+    <destino id="D001">
+        <nombre>Cataratas del Iguazú</nombre>
+        <pais>Argentina</pais>
+        <precio_usd>320</precio_usd>
+        <duracion_dias>4</duracion_dias>
+        <descripcion>Patrimonio Natural de la Humanidad.</descripcion>
+    </destino>
+
+    <destino id="D002">
+        <nombre>Parque Nacional Torres del Paine</nombre>
+        <pais>Chile</pais>
+        <precio_usd>580</precio_usd>
+        <duracion_dias>7</duracion_dias>
+        <descripcion>Trekking en la Patagonia chilena.</descripcion>
+        </destino>
+ 
+    <destino id="D003">
+        <nombre>Valle de la Luna</nombre>
+        <pais>Chile</pais>
+        <precio_usd>150</precio_usd>
+        <duracion_dias>2</duracion_dias>
+        <descripcion>Formaciones rocosas únicas en el desierto de Atacama.</descripcion>
+    </destino>
+</catalogo>
